@@ -1,7 +1,9 @@
-# Welcome to my page!
+## Welcome to my GitHub profile!
 
-just a person ig
-
+#**Contact Me**
 
 Contact Information:
 Discord: `mars#7062`
+--------------------------------------------------------------------------------------------
+
+* Hi
