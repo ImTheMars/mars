@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Mars here.</h1>
-<h3 align="center">Young Verified Discord Bot Developer, who has an interest in Web Development.</h3>
+<h3 align="center">Young Dev trying to expand his regions.</h3>
 
 
 <p align="center">&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=DiscordAnaxes" alt=DiscordAnaxes" /></p>
